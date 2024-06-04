@@ -1,5 +1,5 @@
 # text_detection_methods
-1.OCR檢測方法
+## 1.文字檢測方法
 
 (1)CTPN
 
@@ -10,6 +10,9 @@
 (4)craft-text-detector
 (pip install craft-text-detector)
 
-2.OCR辨識方法
+## 2.文字辨識方法
 
-CRNN
+(1)CRNN
+
+(2)EasyOCR (pip install easyocr) https://github.com/JaidedAI/EasyOCR
+
