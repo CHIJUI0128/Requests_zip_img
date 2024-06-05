@@ -16,3 +16,5 @@
 
 (2)EasyOCR (pip install easyocr) https://github.com/JaidedAI/EasyOCR
 
+(3)Keras-OCR (不好用) https://github.com/faustomorales/keras-ocr
+
